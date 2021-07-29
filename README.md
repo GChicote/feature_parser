@@ -15,9 +15,9 @@ Feature: An awesome new feature
     USxxx: Some cool user story
 
     Scenario: The feature works fine
-    Given some precondition
-    When the user touches a magic button
-    Then incredible things happen
+      Given some precondition
+      When the user touches a magic button
+      Then incredible things happen
 
 ```
 
